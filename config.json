@@ -19,9 +19,9 @@
         "SG1":
         {
             "friendlyName":"Singapore",
-            "remoteAddr":"18.140.201.18:443",
+            "remoteAddr":"18.136.167.216:443",
             "remoteProtocol":"https",
-            "furiousRemoteAddr":"18.140.201.18:8080",
+            "furiousRemoteAddr":"18.136.167.216:8080",
             "furiousremoteProtocol":"socks5+kcp",
             "furiousMode":"1",
             "priority":2
