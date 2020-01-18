@@ -1,0 +1,64 @@
+{
+    "v1.11":
+    {
+        "apiPoint":"http://127.0.0.1:5001",
+        "appCast":"https://cloudruan.github.io/appcast.xml"
+    },
+    "v1.1":
+    {
+        "US1":
+        {
+            "friendlyName":"Los Angeles",
+            "remoteAddr":"45.62.99.182:443",
+            "remoteProtocol":"https",
+            "furiousRemoteAddr":"45.62.99.182:8080",
+            "furiousremoteProtocol":"socks5+kcp",
+            "furiousMode":"1",
+            "priority":1
+        },
+        "SG1":
+        {
+            "friendlyName":"Singapore",
+            "remoteAddr":"18.140.201.18:443",
+            "remoteProtocol":"https",
+            "furiousRemoteAddr":"18.140.201.18:8080",
+            "furiousremoteProtocol":"socks5+kcp",
+            "furiousMode":"1",
+            "priority":2
+        },
+        "JP1":
+        {
+            "friendlyName":"Tokyo",
+            "remoteAddr":"18.176.81.201:443",
+            "remoteProtocol":"https",
+            "furiousRemoteAddr":"18.176.81.201:8080",
+            "furiousremoteProtocol":"socks5+kcp",
+            "furiousMode":"1",
+            "priority":1
+        }
+
+    },
+    
+    "v1":
+    {
+        "normal":
+        {
+            "us1":
+            {
+                "remoteAddr":"45.62.99.182",
+                "remotePort":"443",
+                "remoteProtocol":"https"
+            }
+        },
+        "furious":
+        {
+            "us1":
+            {
+                "remoteAddr":"45.62.99.182:8080",
+                "remoteProtocol":"socks5+kcp"
+            }        
+            
+        }
+    }
+    
+}
