@@ -35,16 +35,6 @@
             "furiousremoteProtocol":"socks5+kcp",
             "furiousMode":"1",
             "priority":1
-        },
-        "Test":
-        {
-            "friendlyName":"Tokyo",
-            "remoteAddr":"18.176.81.201:443",
-            "remoteProtocol":"https",
-            "furiousRemoteAddr":"18.176.81.201:8080",
-            "furiousremoteProtocol":"socks5+kcp",
-            "furiousMode":"1",
-            "priority":1
         }
 
     },
