@@ -33,7 +33,7 @@
             "remoteProtocol":"https",
             "furiousRemoteAddr":"18.176.81.201:8080",
             "furiousremoteProtocol":"socks5+kcp",
-            "furiousMode":"1",
+            "furiousMode":"0",
             "priority":1
         }
 
