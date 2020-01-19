@@ -29,9 +29,9 @@
         "JP1":
         {
             "friendlyName":"Tokyo",
-            "remoteAddr":"18.176.81.201:443",
+            "remoteAddr":"18.178.80.60:443",
             "remoteProtocol":"https",
-            "furiousRemoteAddr":"18.176.81.201:8080",
+            "furiousRemoteAddr":"18.178.80.60:8080",
             "furiousremoteProtocol":"socks5+kcp",
             "furiousMode":"0",
             "priority":1
