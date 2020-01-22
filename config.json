@@ -14,7 +14,8 @@
             "furiousRemoteAddr":"45.62.99.182:53",
             "furiousremoteProtocol":"socks5+kcp",
             "furiousMode":"1",
-            "priority":1
+            "priority":1,
+            "vip":"yes"
         },
         "SG1":
         {
