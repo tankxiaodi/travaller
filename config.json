@@ -10,7 +10,7 @@
         {
             "friendlyName":"Los Angeles",
             "remoteAddr":"45.62.99.182:443",
-            "remoteProtocol":"http2",
+            "remoteProtocol":"http2+tls",
             "furiousRemoteAddr":"45.62.99.182:53",
             "furiousremoteProtocol":"socks5+kcp",
             "furiousMode":"1",
