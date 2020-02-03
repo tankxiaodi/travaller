@@ -8,12 +8,23 @@
     {
         "US1":
         {
-            "friendlyName":"Los Angeles",
+            "friendlyName":"Los Angeles 1",
             "remoteAddr":"45.62.99.182:443",
-            "remoteProtocol":"http+tls",
+            "remoteProtocol":"https",
             "furiousRemoteAddr":"45.62.99.182:8080",
             "furiousremoteProtocol":"socks5+kcp",
             "furiousMode":"0",
+            "priority":2,
+            "vip":"yes"
+        },
+        "US2":
+        {
+            "friendlyName":"Los Angeles 2",
+            "remoteAddr":"45.62.99.182:443",
+            "remoteProtocol":"https",
+            "furiousRemoteAddr":"45.62.99.182:8080",
+            "furiousremoteProtocol":"socks5+kcp",
+            "furiousMode":"1",
             "priority":1,
             "vip":"yes"
         },
