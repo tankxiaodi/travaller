@@ -4,7 +4,7 @@
         "apiPoint":"http://18.178.80.60:5000",
         "appCast":"https://tankxiaodi.github.io/travaller/appcast.xml",
         "downloadUrl":"http://xxx.com",
-        "trialDays":3,
+        "trialDays":5,
         "invitedReward":30
     },
     "v1.1":
