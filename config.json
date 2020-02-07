@@ -8,7 +8,7 @@
     {
         "US1":
         {
-            "friendlyName":"Los Angeles 1",
+            "friendlyName":"Los Angeles(legacy mode)",
             "remoteAddr":"45.62.99.182:443",
             "remoteProtocol":"https",
             "furiousRemoteAddr":"45.62.99.182:8080",
@@ -19,7 +19,7 @@
         },
         "US2":
         {
-            "friendlyName":"Los Angeles 2",
+            "friendlyName":"Los Angeles",
             "remoteAddr":"45.62.99.182:443",
             "remoteProtocol":"https",
             "furiousRemoteAddr":"45.62.99.182:8080",
