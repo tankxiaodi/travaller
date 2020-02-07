@@ -18,17 +18,6 @@
             "priority":2,
             "vip":"yes"
         },
-        "US2":
-        {
-            "friendlyName":"Los Angeles",
-            "remoteAddr":"45.62.99.182:443",
-            "remoteProtocol":"https",
-            "furiousRemoteAddr":"45.62.99.182:8080",
-            "furiousremoteProtocol":"socks5+kcp",
-            "furiousMode":"1",
-            "priority":1,
-            "vip":"yes"
-        },
         "SG1":
         {
             "friendlyName":"Singapore",
