@@ -1,7 +1,8 @@
 {
     "v1.11":
     {
-        "apiPoint":"http://18.178.80.60:5000",
+        "apiPoint":"http://127.0.0.1:5000",
+        "apiPoint_Test":"http://18.178.80.60:5000",
         "appCast":"https://tankxiaodi.github.io/travaller/appcast.xml",
         "downloadUrl":"http://xxx.com"
     },
