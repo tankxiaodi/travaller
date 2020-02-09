@@ -5,13 +5,13 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.006 (2 bugs fixed; 3 new features)</title>
+            <title>Version 1.007 (2 bugs fixed; 3 new features)</title>
             <sparkle:releaseNotesLink>
                 http://you.com/app/2.0.html
             </sparkle:releaseNotesLink>
             <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
             <!-- Sparkle 1.21+ uses sparkle::edSignature="ed25519" instead of sparkle::dsaSignature="deprecated DSA" -->
-            <enclosure url="https://tankxiaodi.github.io/travaller/Voyager.dmg" sparkle:version="1.006" length="1623481" type="application/octet-stream"/>
+            <enclosure url="https://tankxiaodi.github.io/travaller/Voyager.dmg" sparkle:version="1.007" length="1623481" type="application/octet-stream"/>
             <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
         </item>
     </channel>
