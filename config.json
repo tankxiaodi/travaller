@@ -6,7 +6,19 @@
         "appCast":"https://tankxiaodi.github.io/travaller/appcast.xml",
         "downloadUrl":"http://xxx.com",
         "trialDays":5,
-        "invitedReward":30
+        "invitedReward":30,
+        "publicKey":"pk_test_OgPas8BKSIP1o16GJp7MN7Fx",
+        "sku":{
+            "30 days plan":"sku_GdsHc8NE6oYl4y",
+            "90 days plan":"sku_Gi3bD6MPNTGi8m",
+            "365 days plan":"sku_Gi3c3XR81O2di3"
+        },
+        "price":{
+            "30 days plan":2.9,
+            "90 days plan":7.4,
+            "365 days plan":24.9
+        }
+
     },
     "v1.1":
     {
