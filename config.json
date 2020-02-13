@@ -31,7 +31,9 @@
             "furiousremoteProtocol":"socks5+kcp",
             "furiousMode":"0",
             "priority":2,
-            "vip":"yes"
+            "vip":"yes",
+            "country":"us",
+            "details":"电信 移动 联通 优化"
         },
         "SG1":
         {
@@ -41,7 +43,9 @@
             "furiousRemoteAddr":"52.74.172.174:8080",
             "furiousremoteProtocol":"socks5+kcp",
             "furiousMode":"1",
-            "priority":2
+            "priority":2,
+            "country":"sg",
+            "details":"移动 优化"
         },
         "JP1":
         {
@@ -51,7 +55,9 @@
             "furiousRemoteAddr":"18.178.80.60:8080",
             "furiousremoteProtocol":"socks5+kcp",
             "furiousMode":"1",
-            "priority":1
+            "priority":1,
+            "country":"jp",
+            "details":"移动 优化"
         }
 
     },
