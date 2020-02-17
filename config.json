@@ -58,6 +58,18 @@
             "priority":1,
             "country":"jp",
             "details":"移动 优化"
+        },
+        "HK1":
+        {
+            "friendlyName":"HongKong",
+            "remoteAddr":"149.129.75.220:443",
+            "remoteProtocol":"wss",
+            "furiousRemoteAddr":"149.129.75.220:8080",
+            "furiousremoteProtocol":"socks5+kcp",
+            "furiousMode":"1",
+            "priority":4,
+            "country":"hk",
+            "details":"测试"
         }
 
     },
