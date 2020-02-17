@@ -61,7 +61,7 @@
         },
         "HK1":
         {
-            "friendlyName":"HongKong",
+            "friendlyName":"Hong Kong",
             "remoteAddr":"149.129.75.220:443",
             "remoteProtocol":"https",
             "furiousRemoteAddr":"149.129.75.220:8080",
@@ -69,7 +69,7 @@
             "furiousMode":"1",
             "priority":4,
             "country":"hk",
-            "details":"供大秋测试"
+            "details":"测试用"
         }
 
     },
