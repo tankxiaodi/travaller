@@ -63,9 +63,9 @@
         {
             "friendlyName":"HongKong",
             "remoteAddr":"149.129.75.220:443",
-            "remoteProtocol":"wss",
+            "remoteProtocol":"https",
             "furiousRemoteAddr":"149.129.75.220:8080",
-            "furiousremoteProtocol":"socks5+kcp",
+            "furiousremoteProtocol":"https+kcp",
             "furiousMode":"1",
             "priority":4,
             "country":"hk",
