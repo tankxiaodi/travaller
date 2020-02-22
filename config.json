@@ -35,6 +35,19 @@
             "country":"us",
             "details":"电信 优化"
         },
+        "US2":
+        {
+            "friendlyName":"Los Angeles",
+            "remoteAddr":"172.86.71.106:443",
+            "remoteProtocol":"https",
+            "furiousRemoteAddr":"172.86.71.106:8080",
+            "furiousremoteProtocol":"socks+kcp",
+            "furiousMode":"1",
+            "priority":4,
+            "vip":"yes",
+            "country":"us",
+            "details":"电信 优化"
+        },
         "SG1":
         {
             "friendlyName":"Singapore",
