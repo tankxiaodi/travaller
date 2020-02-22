@@ -56,7 +56,7 @@
             "furiousRemoteAddr":"52.74.172.174:8080",
             "furiousremoteProtocol":"socks5+kcp",
             "furiousMode":"1",
-            "priority":4,
+            "priority":5,
             "vip":"no",
             "country":"sg",
             "details":"移动 优化"
