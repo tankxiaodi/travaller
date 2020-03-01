@@ -7,11 +7,11 @@
         <item>
             <title>Version 1.013 (2 bugs fixed; 3 new features)</title>
             <sparkle:releaseNotesLink>
-                http://you.com/app/2.0.html
+                https://sdaecv.s3-us-west-1.amazonaws.com/whatsnew.html
             </sparkle:releaseNotesLink>
             <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
             <!-- Sparkle 1.21+ uses sparkle::edSignature="ed25519" instead of sparkle::dsaSignature="deprecated DSA" -->
-            <enclosure url="https://tankxiaodi.github.io/travaller/Voyager.dmg" sparkle:version="1.013" length="1623481" type="application/octet-stream"/>
+            <enclosure url="https://sdaecv.s3-us-west-1.amazonaws.com/Voyager.dmg" sparkle:version="1.013" length="1623481" type="application/octet-stream"/>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
         </item>
     </channel>

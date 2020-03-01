@@ -3,8 +3,8 @@
     {
         "apiPoint":"http://18.178.80.60:5000",
         "apiIP":"18.178.80.60",
-        "appCast":"https://tankxiaodi.github.io/travaller/appcast.xml",
-        "downloadUrl":"http://xxx.com",
+        "appCast":"https://sdaecv.s3-us-west-1.amazonaws.com/appcast.xml",
+        "downloadUrl":"https://sdaecv.s3-us-west-1.amazonaws.com/Voyager.dmg",
         "trialDays":5,
         "invitedReward":30,
         "publicKey":"pk_test_OgPas8BKSIP1o16GJp7MN7Fx",
