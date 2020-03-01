@@ -60,19 +60,6 @@
             "vip":"no",
             "country":"jp",
             "details":"移动 优化"
-        },
-        "HK1":
-        {
-            "friendlyName":"Hong Kong",
-            "remoteAddr":"149.129.75.220:443",
-            "remoteProtocol":"https",
-            "furiousRemoteAddr":"149.129.75.220:8080",
-            "furiousremoteProtocol":"socks5+kcp",
-            "furiousMode":"1",
-            "priority":4,
-            "vip":"yes",
-            "country":"hk",
-            "details":"测试用"
         }
 
     },
