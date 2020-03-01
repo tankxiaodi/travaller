@@ -62,28 +62,6 @@
             "details":"移动 优化"
         }
 
-    },
-
-    "v1":
-    {
-        "normal":
-        {
-            "us1":
-            {
-                "remoteAddr":"45.62.99.182",
-                "remotePort":"443",
-                "remoteProtocol":"https"
-            }
-        },
-        "furious":
-        {
-            "us1":
-            {
-                "remoteAddr":"45.62.99.182:8080",
-                "remoteProtocol":"socks5+kcp"
-            }
-
-        }
     }
 
 }
